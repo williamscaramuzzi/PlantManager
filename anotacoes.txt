@@ -1,0 +1,22 @@
+
+### Configurações que eu fiz
+Arquivo custom.d.ts pra poder importar arquivos png sem o typescript reclamar
+
+Arquivo colors.ts com 'atalho' pra todas as cores que vou usar no app
+
+Arquivo fonts.ts com 'atalho' pra todas as fontes que vou usar no app
+
+### Pacotes que eu instalei
+"npm install expo-font @expo-google-fonts/jost" fontes do google fonts já empacotadas pra react native, cortesia do EXPO
+
+"npm install @expo/vector-icons" pacote de ícones, cortesia do expo
+
+"npm install @react-navigation/native" pacote pra navegar entre telas do meu app, é necessário fazer os dois próximos passos
+
+"expo install react-native-screens react-native-safe-area-context" 
+
+"npm install @react-navigation/native-stack"
+
+"expo install lottie-react-native" animações Lottie"
+
+"expo install @react-native-async-storage/async-storage" pra guardar variáveis no aparelho 
